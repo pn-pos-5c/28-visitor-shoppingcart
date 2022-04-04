@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a1177c37-45ba-4434-b17d-25adeafca84c": {
+      "ProjectGuid": "a1177c37-45ba-4434-b17d-25adeafca84c",
+      "DisplayName": "VisitorShoppingCart",
+      "ColorIndex": 0
+    },
+    "bff7e95b-06b9-475a-96ea-929396b51cea": {
+      "ProjectGuid": "bff7e95b-06b9-475a-96ea-929396b51cea",
+      "DisplayName": "ElementLib",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
